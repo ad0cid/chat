@@ -1,0 +1,14 @@
+.chat{
+	border: solid 1px #ccc;
+	height: 200px;
+	margin: 2% 0%;
+	width: 100%;
+	overflow-y: scroll; 
+}
+.recibir{
+	border: solid 3px red;
+}
+.enviar{
+	border: solid 3px green;
+	text-align: right;
+}
